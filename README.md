@@ -122,4 +122,12 @@ and creating an interactive dashboard to support decision-making.
 
 The insights reveal profitable areas (Technology, Copiers) as well as critical issues such as the negative profitability of Tables and the weak performance of Furnishings, which are essential findings for any business looking to optimize product strategy.
 
+Suggested actions based on the analysis:
+
+Tables: Review pricing and supplier costs to recover losses.
+
+Furnishings: Focus marketing on best-selling items and optimize inventory levels.
+
+General: Monitor low-performing categories regularly to identify improvement opportunities and maximize overall profitability.
+
 This Excel project reflects the analytical thinking, attention to detail, and data-driven approach required for junior data analyst roles, while showcasing practical skills in transforming structured data into clear, actionable business intelligence.
